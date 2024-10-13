@@ -1,0 +1,17 @@
+.about-me{
+    height: 90vh;
+    width: 100%;
+}
+
+
+
+.about{
+    display: inline-block;
+    width: auto;
+    border-bottom: 2px solid orangered;
+}
+
+.container p{
+    text-align: justify;
+    text-justify: inter-word;
+}

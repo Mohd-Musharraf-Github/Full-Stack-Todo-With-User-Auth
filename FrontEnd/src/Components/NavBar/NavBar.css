@@ -1,0 +1,10 @@
+.navbar-brand{
+    color: orangered;
+}
+
+.button-nav{
+    background-color: orangered;
+    border-radius: 5px;
+    color: white !important;
+    font-weight: bold;
+}
